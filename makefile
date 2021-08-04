@@ -1,0 +1,2 @@
+run: 
+	python ticketsViewer.py 
